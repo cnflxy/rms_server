@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rms_server", "rms_server\rms_server.vcxproj", "{66BADC7F-34A9-485A-9CF5-D3BAD731F74F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66BADC7F-34A9-485A-9CF5-D3BAD731F74F}.Debug|x64.ActiveCfg = Debug|x64
+		{66BADC7F-34A9-485A-9CF5-D3BAD731F74F}.Debug|x64.Build.0 = Debug|x64
+		{66BADC7F-34A9-485A-9CF5-D3BAD731F74F}.Debug|x86.ActiveCfg = Debug|Win32
+		{66BADC7F-34A9-485A-9CF5-D3BAD731F74F}.Debug|x86.Build.0 = Debug|Win32
+		{66BADC7F-34A9-485A-9CF5-D3BAD731F74F}.Release|x64.ActiveCfg = Release|x64
+		{66BADC7F-34A9-485A-9CF5-D3BAD731F74F}.Release|x64.Build.0 = Release|x64
+		{66BADC7F-34A9-485A-9CF5-D3BAD731F74F}.Release|x86.ActiveCfg = Release|Win32
+		{66BADC7F-34A9-485A-9CF5-D3BAD731F74F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {589C51EC-71ED-44DE-900F-C9FA84DE8734}
+	EndGlobalSection
+EndGlobal
